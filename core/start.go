@@ -6,7 +6,7 @@ import (
 	"github.com/google/gopacket/pcap"
 	ratelimit "golang.org/x/time/rate"
 	"io"
-	"ksubdomain/gologger"
+	"github.com/ReAbout/ksubdomain/gologger"
 	"math/rand"
 	"os"
 	"strings"
