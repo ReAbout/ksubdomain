@@ -2,7 +2,7 @@ package core
 
 import (
 	"github.com/tealeg/xlsx"
-	"ksubdomain/gologger"
+	"github.com/ReAbout/ksubdomain/gologger"
 	"strings"
 )
 
