@@ -1,4 +1,4 @@
-module ksubdomain
+module github.com/ReAbout/ksubdomain
 
 go 1.14
 
