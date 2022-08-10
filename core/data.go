@@ -4,7 +4,7 @@ import (
 	"bufio"
 	"github.com/rakyll/statik/fs"
 	"ksubdomain/gologger"
-	_ "ksubdomain/statik"
+	_ "github.com/ReAbout/ksubdomain/statik"
 	"net"
 	"os"
 	"path/filepath"
